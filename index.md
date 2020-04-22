@@ -1,36 +1,31 @@
-## Welcome to GitHub Pages
+## The Quran Hafiz Smooth Helper
 
-You can use the [editor on GitHub](https://github.com/MauriPastorini/Quran/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Quran** is a one-page memorization dashboard app, simple yet attractive and
+eye-catching and it will make the process of tracking your progress very easy and smooth.
+Think of the Quran memorization dashboard app as your good friend helping you through
+your Quran memorization journey, with an easy and simple yet appealing interface.
+Quran is a powerful software and its sole purpose is to help you track your progress
+memorizing the holy Quran easily.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**What is on Quran Memorization Dashboard?**
+1. Three indicators that record (chapters, verses, and signs).
+2. Your memorization progress in terms of (chapters, pages, verses).
+3. Input boxes for (chapters, pages, and verses).
+4. The updates will take effect on the dashboard instantly.
 
-### Markdown
+**Why Do Muslims Memorize the Quran?**
+1. Highest ranks of Jannah for the Memoriser (Hafiz) of the Quran.
+2. The Highest Honour for the Parents of the Memoriser (Hafiz) of the Quran.
+3. The best person is he who learns the Quran & teaches it.
+4. The Qur'an will intercede for the Hafiz of the Quran.
+5. Memorizing the Holy Quran will preserve the words of Allah & the Arabic Language.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MauriPastorini/Quran/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Quran** is here to motivate you to memorize the holy words of Allah, so please be
+honest with us and give us feedback so we can come back with the most thoughtful and
+necessary updates.
+by creating this simple Quran memorization dashboard we are looking forward to helping
+millions of Muslims around the world to memorize the holy Quran, so keep the support coming
+and please give us a review.
 
 ### Support or Contact
 
