@@ -29,4 +29,4 @@ and please give us a review.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Contact support: +966 56 409 0071 and we’ll help you sort it out.
